@@ -1,0 +1,15 @@
+header: 
+  seq: 164
+  stamp: 
+    secs: 1730870178
+    nsecs: 610000000
+  frame_id: "POI"
+status: 
+  status: 2
+  service: 1
+latitude: 29.571327391
+longitude: 106.463983317
+altitude: 224.2324
+position_covariance: [0.00026, -0.00029, -0.0001, -0.00029, 0.00069, 0.0002, -0.0001, 0.0002, 0.00019]
+position_covariance_type: 3
+---
